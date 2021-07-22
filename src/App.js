@@ -47,7 +47,7 @@ const App = () => {
           <section>
             <h3>Lynda / LinkedIn Learning Courses</h3>
             <img
-              src="images/project-courses.jpg"
+              src="../images/project-courses.jpg"
               alt="Lynda  LinkedIn Learning course list"
             />
             <p>
